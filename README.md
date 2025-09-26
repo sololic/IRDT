@@ -29,13 +29,11 @@
 
 #### 25/10/01 ~ 25/10/16
 - [ ] 프로그래머스 파이썬 코드 풀이
-     ##### [📝 공통 문제 확인하러 가기](./problems.md)
+      [📝 공통 문제 확인하러 가기](./problems.md)
      
-     <details>
-    <summary> 🤔 파이썬 문제풀이 참여 방법  </summary>
-     </br>
+     #### 🤔 안내 사항
 
-     #### ✅ 파이썬 공통 문제 규칙 📌
+     ##### ✅ 파이썬 공통 문제 규칙 📌
      - 스터디원 모두가 푸는 것(혹은 고민해 보는 것)을 목적으로 하는 **공통 문제** 선정
           ##### 1. 문제 선정
           - 매주 각자 1문제씩 선정
@@ -112,7 +110,7 @@
 ---
 
 
-## 📅스터디 참가자 <img src="imgs/image.png" alt="아이콘1" width="35" height="33" />
+## 📅스터디 참가자 <img src="imgs/image.png" alt="아이콘1" width="35" height="33" /> <img src="imgs/image1.png" alt="아이콘1" width="31" height="33" />
 <table><tr>
     <td align="center"><a href="https://github.com/pchaeyeon"><img src="https://avatars.githubusercontent.com/u/190123447?v=4" width="100px;" alt=""/>
    <br /><sub><b>pchaeyeon</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/7"/></sub></a><br /></td>
