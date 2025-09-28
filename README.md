@@ -76,10 +76,10 @@
      </br>
  
   ###### ✅ commit 규칙
-     - Commit message : [개인폴더이름] [유형(algo/proj)] (제목규칙따라 올리기) yy-mm-dd
+     - Commit message : n주차) [개인폴더이름] [유형(algo/proj)] (제목규칙따라 올리기) yy-mm-dd
      ``` sh
 		$ git add [study_path_root]/jihwan #각자 폴더만 올리도록 합니다
-		$ git commit -m "[jihwan] [proj] 프로젝트 기획서 작성 25-10-01" 
+		$ git commit -m "2주차) [jihwan] [proj] 프로젝트 기획서 작성 25-10-01" 
      ```
   - push 시 문제가 생긴다면 토요일등 차후 회의를 통해 바꾸도록 합니다 #회의안건
   - commit message 제목규칙을 명확하게 해야할 것 같습니다 #회의안건 
