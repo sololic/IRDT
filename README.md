@@ -7,8 +7,8 @@
 ✅ 주제는  **자유롭게 협의**   
 ✅ 조장은 sungho
 ✅ 스터디는 **주 1회 이상, 1시간 이상** 진행 
-	우리는  (알고리즘 문제풀이 - **목 18:00~** / 프로젝트 관리 - **토 10:00~** ) 
-	인당 10분 한시간 만에 끝내는게 목표입니다. 부족하다 싶으면 jihwan 호출.
+➡️ 우리는  (알고리즘 문제풀이 - **목 18:00~** / 프로젝트 관리 - **토 10:00~** ) 
+➡️ 인당 10분 한시간 만에 끝내는게 목표입니다. 부족하다 싶으면 한번 더 모여도 됨.
 ✅ 참석 인원은 **최소 2인 이상**  
 
 ---
@@ -22,6 +22,23 @@
 - **기술 서적 / 논문 리뷰**
 - **머신러닝 경진대회 참여** (Kaggle, Dacon 등)
 - **자격증 및 시험 준비 스터디**
+
+---
+
+### 📅스터디 커밋 기록 (차후 변경)
+<table><tr>
+    <td align="center"><a href="https://github.com/sololic"><img src="https://avatars.githubusercontent.com/u/190123447?v=4" width="100px;" alt=""/>
+   <br /><sub><b>sololic</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/></sub></a><br /></td>
+
+   <td align="center"><a href="https://github.com/Gomtanguk"><img src="https://avatars.githubusercontent.com/u/166046744?v=4" width="100px;" alt=""/>
+   <br /><sub><b>Gomtanguk</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/></sub></a><br /></td>
+
+   <td align="center"><a href="https://github.com/KIZENAKT"><img src="https://avatars.githubusercontent.com/u/234184443?v=4" width="100px;" alt=""/>
+   <br /><sub><b>KIZENAKT</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/></sub></a><br /></td>
+
+   <td align="center"><a href="https://github.com/egghwan913"><img src="https://avatars.githubusercontent.com/u/70243358?v=4?s=100" width="100px;" alt=""/>
+   <br /><sub><b>egghwan913</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/></sub></a><br /></td>
+</tr></table>
 
 ---
 
@@ -68,7 +85,7 @@
      </br>
 
  ###### ✅ (Optional) 폴더 규칙
-     ```
+ ```
      .Study_4
      ├── README.md            # 팀 전체 README.md
      ├── JuyongOh            # 본인 이름으로 개인 디렉토리 생성
@@ -90,7 +107,7 @@
      | └──[ROS2]              # ROS-2
      ├── KIZENAKT
      ...
-     ```
+ ```
      ---
      위 규칙은 다음 레포지토리를 참고해서 제작하였습니다. </br>
      - 알고리즘 코딩 테스트 그룹 스터디 [알고리즘 및 코딩 테스트 문제 풀이 챌린지 100](https://github.com/ellynhan/challenge100-codingtest-study)
@@ -100,21 +117,7 @@
 ---
 
 
-## 📅스터디 참가자 <img src="imgs/image.png" alt="아이콘1" width="35" height="33" /> <img src="imgs/image1.png" alt="아이콘1" width="31" height="33" />
-<table><tr>
-    <td align="center"><a href="https://github.com/sololic"><img src="https://avatars.githubusercontent.com/u/190123447?v=4" width="100px;" alt=""/>
-   <br /><sub><b>sololic</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/></sub></a><br /></td>
-
-   <td align="center"><a href="https://github.com/Gomtanguk"><img src="https://avatars.githubusercontent.com/u/166046744?v=4" width="100px;" alt=""/>
-   <br /><sub><b>Gomtanguk</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/></sub></a><br /></td>
-
-   <td align="center"><a href="https://github.com/KIZENAKT"><img src="https://avatars.githubusercontent.com/u/234184443?v=4" width="100px;" alt=""/>
-   <br /><sub><b>KIZENAKT</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/></sub></a><br /></td>
-
-   <td align="center"><a href="https://github.com/egghwan913"><img src="https://avatars.githubusercontent.com/u/70243358?v=4?s=100" width="100px;" alt=""/>
-   <br /><sub><b>egghwan913</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/></sub></a><br /></td>
-</tr></table>
-
-
-
 ---
+
+
+**대가리 깨져가면서 배우는 컴퓨터로 기계움직이기**
