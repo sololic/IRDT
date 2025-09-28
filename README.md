@@ -4,9 +4,11 @@
 ### 🤝 스터디 운영 규칙
 
 ✅ 스터디는 **자율 참여**이며, **비대면 교육 기간** 동안 조원들끼리 진행  
-✅ 주제는 조원들과 **자유롭게 협의**   
-✅ 각 조는 조장을 선출하여 운영 
-✅ 스터디는 **주 1회 이상, 1시간 이상** 진행  
+✅ 주제는  **자유롭게 협의**   
+✅ 조장은 sungho
+✅ 스터디는 **주 1회 이상, 1시간 이상** 진행 
+	우리는  (알고리즘 문제풀이 - **목 18:00~** / 프로젝트 관리 - **토 10:00~** ) 
+	인당 10분 한시간 만에 끝내는게 목표입니다. 부족하다 싶으면 jihwan 호출.
 ✅ 참석 인원은 **최소 2인 이상**  
 
 ---
@@ -23,19 +25,25 @@
 
 ---
 
-### 🎯스터디 진행 체크리스트
+### 🎯스터디 진행 로그
 
-#### 25/09/26
+##### 25/09/24 (18:00~19:00)
 - [x]  **Git 및 GitHub 사용법 스터디**  
 📎 참고 자료: [Git 및 GitHub 튜토리얼 노션 페이지](https://www.notion.so/1-Git-27937748289c80a89ffbfa87250d3ee6?source=copy_link)
+##### 25/09/27 (10:00~12:30)
+- [ ] **간략한 향후계획 및 스터디 운영**  
 
-#### 25/10/01 ~ 25/10/16
+##### 25/10/02 (예정)
 - [ ] 프로그래머스 파이썬 코드 풀이
  [📝 공통 문제 확인하러 가기](./problems.md)
-     
-     #### 🤔 안내 사항
 
-     ##### ✅ 파이썬 공통 문제 규칙 📌
+##### 25/10/04 (예정)
+- [ ] 개인 프로젝트 기획 발표
+ [📝 공통 문제 확인하러 가기](./problems.md)
+
+### 🤔 안내 사항
+
+ ##### ✅ 파이썬 공통 문제 규칙 📌
      - 스터디원 모두가 푸는 것(혹은 고민해 보는 것)을 목적으로 하는 **공통 문제** 선정
           ##### 1. 문제 선정
           - 매주 각자 1문제씩 선정
@@ -50,55 +58,37 @@
 
      </br>
 
-     ###### ✅ 참여 방법
-     1. 이 저장소를 `fork` 한다.
-     2. ~~생성된 원격 저장소에 이름 혹은 github ID로 폴더를 생성한다.~~ 📁 4조 조원들 폴더 생성 완료
-     3. 생성된 폴더에 자신의 소스코드를 업로드 한다. 
-     4. **이때 `commit 규칙`을 지키도록한다!**
-     5. 원본 저장소로 `Pull Request`를 한다. (매주 수요일에 Merge 예정)
-     6. 다른 사람들의 PR을 보고 자유롭게 코드리뷰를 한다.
-     ***주의!! 기존 파일 수정하시면 안됩니다!!*** 개인 폴더 내부만 수정해주세요💚
-     </br>
-
-     ###### ✅ .py 파일 이름 작성 규칙
-     - 자유롭게 작성 🙂
-
-     </br>
-
-     ###### ✅ commit 규칙
-     - Commit message : yy/mm/dd 문제 풀이
-     - 예시 : `git commit -m "25/09/29 문제 풀이"`
-     
-
-     </br>
-
-     ###### ✅ PR 규칙
+ ###### ✅ 참여 방법
+     1. ~~이 저장소를 `fork` 한다.~~
+     2. ~~생성된 원격 저장소에 이름 혹은 github ID로 폴더를 디 운영 참고)
      - PR 제목: 이름 / 주차 / 문제 풀이 개수
      - 예시 : `Seunga Kim / 9월 5주차 / 2문제` 
      - (Optional) comment : 자유롭게 작성 가능. 다만, 이번주에 풀었던 문제의 유형 분류가 어떻게 되는지,어떤 문제가 어려웠는지 회고를 작성한다면 개인에게도 도움되고 다른 코드 리뷰어가 참고하기 좋을 것 같습니다.
 
      </br>
 
-     ###### ✅ (Optional) 폴더 규칙
+ ###### ✅ (Optional) 폴더 규칙
      ```
      .Study_4
      ├── README.md            # 팀 전체 README.md
-     ├── SeungaKim            # 본인 이름으로 개인 디렉토리 생성
-     │ ├── README_SK.md       # 개인 README.md (본인이 푼 문제 정보 공유)
-     │ ├── [PYT]              # 파이썬 문제 풀이 모음
-     │ │ ├── 01_문자출력.py
-     │ │ └── 02_각도합치기.py
-     │ └── [CV]               # Computer Vision 관련 폴더
-     │ └── [DVP]              # DevOps 개인 공부 정리
-     | └──[ROS2]              # ROS-2 개인 공부 정리
-     ├── HannaLee
+     ├── JuyongOh            # 본인 이름으로 개인 디렉토리 생성
+     │ ├── 1주차       # 개인 README.md (본인이 푼 문제 정보 공유)
+     │ │ ├── 
+     │ ├── [알고리즘]              # 파이썬 문제 풀이 모음
+     │ │ ├── 250929
+     │ │ ├── 250930
+     │ │ | └── 02_각도합치기.py
+     ├── sungho
      │ ├── README_HN.md       # 개인 README.md
-     │ ├── [PYT]              # 파이썬 문제 풀이
+     │ ├── [알고리즘]              
      │ │ ├── problem1.py
+     │ ├── [프로젝트]              
+     │ │ ├── PROJ_(프로젝트명).md
+     │ | ## etc.. 주차별 회고폴더와 주제별로 자유이나 이후 수업을 고려해 통일합시다!
      │ └── [CV]               # Computer Vision
      │ └── [DVP]              # DevOps
      | └──[ROS2]              # ROS-2
-     ├── ChaeyeonPark
+     ├── KIZENAKT
      ...
      ```
      ---
@@ -112,17 +102,17 @@
 
 ## 📅스터디 참가자 <img src="imgs/image.png" alt="아이콘1" width="35" height="33" /> <img src="imgs/image1.png" alt="아이콘1" width="31" height="33" />
 <table><tr>
-    <td align="center"><a href="https://github.com/pchaeyeon"><img src="https://avatars.githubusercontent.com/u/190123447?v=4" width="100px;" alt=""/>
-   <br /><sub><b>pchaeyeon</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/7"/></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/sololic"><img src="https://avatars.githubusercontent.com/u/190123447?v=4" width="100px;" alt=""/>
+   <br /><sub><b>sololic</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/></sub></a><br /></td>
 
-   <td align="center"><a href="https://github.com/dabom10"><img src="https://avatars.githubusercontent.com/u/166046744?v=4" width="100px;" alt=""/>
-   <br /><sub><b>dabom10</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/7"/></sub></a><br /></td>
+   <td align="center"><a href="https://github.com/Gomtanguk"><img src="https://avatars.githubusercontent.com/u/166046744?v=4" width="100px;" alt=""/>
+   <br /><sub><b>Gomtanguk</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/></sub></a><br /></td>
 
-   <td align="center"><a href="https://github.com/hannaLee09"><img src="https://avatars.githubusercontent.com/u/234184443?v=4" width="100px;" alt=""/>
-   <br /><sub><b>hannaLee09</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/></sub></a><br /></td>
+   <td align="center"><a href="https://github.com/KIZENAKT"><img src="https://avatars.githubusercontent.com/u/234184443?v=4" width="100px;" alt=""/>
+   <br /><sub><b>KIZENAKT</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/></sub></a><br /></td>
 
-   <td align="center"><a href="https://github.com/sinya3558"><img src="https://avatars.githubusercontent.com/u/70243358?v=4?s=100" width="100px;" alt=""/>
-   <br /><sub><b>sinya3558</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/7"/></sub></a><br /></td>
+   <td align="center"><a href="https://github.com/egghwan913"><img src="https://avatars.githubusercontent.com/u/70243358?v=4?s=100" width="100px;" alt=""/>
+   <br /><sub><b>egghwan913</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/></sub></a><br /></td>
 </tr></table>
 
 
